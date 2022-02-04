@@ -1,19 +1,11 @@
 
 <img src="https://github.com/ishantsehrawat/ishantsehrawat/blob/main/banner.png" />
 <h2 align='center'>I'm a Computer Science Engineering Student <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+<p align='center'>
+<a href="https://instagram.com/theishantsehrawat"><img height="30" src="https://github.com/ishantsehrawat/ishantsehrawat/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 <br>
 <img align="right" alt="github_logo" height="170px" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif" />
