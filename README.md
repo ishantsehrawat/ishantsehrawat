@@ -13,8 +13,7 @@
 - ⚡ Disturbing fact: We're in the Truman Show <br>
   <br><br>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantsehrawat&layout=compact&langs_count=8" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ishantsehrawat&show_icons=true" />
+
 <a href="https://github.com/ishantsehrawat/ishantsehrawat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantsehrawat&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
