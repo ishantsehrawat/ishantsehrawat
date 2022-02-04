@@ -13,4 +13,4 @@
 - ⚡ Disturbing fact: We're in the Truman Show <br>
   <br><br>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=ishantsehrawat&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=ishantsehrawat" />
