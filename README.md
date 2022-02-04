@@ -13,5 +13,5 @@
 - ⚡ Disturbing fact: We're in the Truman Show <br>
   <br><br>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantsehrawat&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantsehrawat&layout=compact&langs_count=8" />
 
