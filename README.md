@@ -1,10 +1,7 @@
-### Hi there 👋
+
 <img src="https://github.com/ishantsehrawat/ishantsehrawat/blob/main/banner.png" />
-<h2 align='center'>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aayush</h2>
-<h3 align='center'>
-I'm a Computer Science Engineering Student.
-</h3>
-<hr>
+<h2 align='center'>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm a Computer Science Engineering Student.</h2>
+
 <br>
 <img align="right" alt="github_logo" height="170px" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
