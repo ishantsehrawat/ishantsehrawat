@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/ishantsehrawat/<OWNER>/<OWNER>/readme_banner.png "Header")]
+[![Ishant Sehrawat Header](https://raw.githubusercontent.com/ishantsehrawat/ishantsehrawat/main/banner.png )]
 
 
 <!--
