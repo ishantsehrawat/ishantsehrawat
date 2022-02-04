@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![Header](https://raw.githubusercontent.com/ishantsehrawat/ishantsehrawat/ishantsehrawat/banner.png "Header")](https://some-url.dev/)
-<img src="https://github.com/ishantsehrawat/ishantsehrawat/banner.png" />
-
+<img src="https://github.com/ishantsehrawat/ishantsehrawat/blob/main/banner.png" />
 <!--
 **ishantsehrawat/ishantsehrawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
