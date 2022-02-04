@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Ishant Sehrawat Header](https://raw.githubusercontent.com/ishantsehrawat/banner.png )]
+# [![Ishant Sehrawat Header](https://raw.githubusercontent.com/ishantsehrawat/banner.png )]
 <img src="https://github.com/ishantsehrawat/ishantsehrawat/banner.png" />
 
 <!--
