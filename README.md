@@ -5,6 +5,7 @@
 <p align='center'>
 <a href="https://instagram.com/theishantsehrawat"><img height="30" src="https://github.com/ishantsehrawat/ishantsehrawat/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ishant-sehrawat-90b1341a4/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.figma.com/@ishantsehrawat"><img height="30" src="https://github.com/ishantsehrawat/ishantsehrawat/blob/main/figma.png?raw=true"></a>
 <a href="https://dribbble.com/ishantsehrawat"><img height="30" src="https://github.com/ishantsehrawat/ishantsehrawat/blob/main/dribbble.png?raw=true"></a>
 <a href="https://open.spotify.com/user/mj8my8lquv3l30d6izzr0qi9l"><img height="30" src="https://github.com/ishantsehrawat/ishantsehrawat/blob/main/spotify.png?raw=true"></a>
 
