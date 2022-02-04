@@ -5,10 +5,10 @@
 <br>
 <img align="right" alt="github_logo" height="170px" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p>
-- 👨‍💻 I’m currently working on Mobile Development from Flutter Framework<br>
-- 📚 I’m currently learning everything about Software Devlopment technologies 😅<br>
-- 💪 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
-- ⚡ Fun fact: <br>
+- 👨‍💻 I’m currently working on Mobile Development from Flutter Framework and UI designing with Figma<br>
+- 📚 I’m currently learning everything about Software Devlopment<br>
+- 💪 Future Goals: Naam karna hai<br>
+- ⚡ Disturbing fact: We're in the Truman Show <br>
   <br><br>
 </p>
 <!--
